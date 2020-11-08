@@ -1,0 +1,25 @@
+{
+  "name": "@xpr/console",
+  "version": "1.0.0",
+  "description": "Expose any instance to developer console",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.14.6",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziv/ng-console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziv/ng-console/issues"
+  },
+  "homepage": "https://github.com/ziv/ng-console#readme"
+}
